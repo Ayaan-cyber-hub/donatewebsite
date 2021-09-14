@@ -1,0 +1,19 @@
+.Ford{
+    width: 150px;
+    font-size: 25px;
+    background-color: blue;
+    color: whitesmoke;
+
+}
+
+body{
+    background-image: url("https://wallpapercave.com/wp/wp3491703.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+    color: white;
+}
